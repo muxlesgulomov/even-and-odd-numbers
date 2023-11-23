@@ -3,5 +3,6 @@
 // Print 1 if the number is even, otherwise print 0.
 
 void main() {
-  print('hello world');
+  int number = 31;
+  print(number % 2);
 }

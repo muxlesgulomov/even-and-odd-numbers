@@ -3,4 +3,7 @@
 // Create a variable "var_int" and assign it a four-digit integer value.
 
 // Print the number of odd digits in the variable "var_int".
-void main() {}
+void main() {
+int number =4444;
+print(number~/2);
+}

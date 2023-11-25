@@ -4,4 +4,8 @@
 
 //Print the number of even digits in the variable "var_int".
 
-void main() {}
+void main() {
+int number =2222;
+print(number % 2 );
+
+}
